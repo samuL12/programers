@@ -5,4 +5,4 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 코딩테스트 문제 풀기 Lv.0 ~ Lv.5
 
 # 언어
-JAVA
+JAVA , MySQL
