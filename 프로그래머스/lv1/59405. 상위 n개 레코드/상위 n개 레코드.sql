@@ -1,0 +1,8 @@
+-- 코드를 입력하세요
+
+SELECT NAME 
+FROM(
+    SELECT NAME, 
+            RANK() OVER(ORDER BY DATETIME) AS DATE_RANK 
+    FROM ANIMAL_INS) foo
+WHERE DATE_RANK = 1;
