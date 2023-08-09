@@ -1,3 +1,8 @@
+# 풀이 전략
+
+- 날짜 차이 DATEDIFF() 사용
+- 날짜 차이 계산시 +1 해줘야 "시작 날짜 ~ 종료 날짜"가 알맞게 계산됨
+
 # [unrated] 자동차 대여 기록에서 장기/단기 대여 구분하기 - 151138 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151138) 
